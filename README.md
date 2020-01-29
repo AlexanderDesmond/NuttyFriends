@@ -9,7 +9,7 @@ Vuforia was used as the augmented reality framework.
 
 ## Capstone Project
 
-###Interaction Design Studio
+### Interaction Design Studio
 
 - Alexander Desmond - Software Developer
 - ...
