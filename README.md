@@ -4,6 +4,8 @@ A story-based augmented reality game created to increase awareness of and consum
 
 ## Video
 
+[![Link to YouTube video](images/NuttyFriends_welcome.jpg)](https://youtu.be/O2crz9T-GNA "Link to YouTube video")
+
 ## Technology
 
 Created in Unity with C#.
