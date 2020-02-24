@@ -69,3 +69,8 @@ crashlytics-build.properties
 
 # End of https://www.gitignore.io/api/unity
 
+//
+.DS_Store
+.collabignore
+.vscode
+QCAR
