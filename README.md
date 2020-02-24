@@ -16,5 +16,5 @@ Vuforia was used as the augmented reality framework.
 ### Interaction Design Studio
 
 - Alexander Desmond - Software Developer
-- ... - UI Designer
-- ... - Story and Visual Designer
+- Paul Inzon - UI Designer
+- Brian Ryu - Story and Visual Designer
